@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby - test
+#!/usr/bin/env ruby
 
 require 'rake/testtask'
 require 'rubygems'
